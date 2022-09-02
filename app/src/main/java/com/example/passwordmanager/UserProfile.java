@@ -83,6 +83,7 @@ public class UserProfile extends AppCompatActivity {
         }
     }
     // http://127.0.0.1:5678/db
+    // http://127.0.0.1:5678/db
     public void CreateAlertDialogue() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setMessage("Are you sure to delete ?");
